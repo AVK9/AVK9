@@ -1,4 +1,12 @@
 ## I am coding...👋
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=avk9.avk9&"  />
+</div>
+
+###
 /*
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
