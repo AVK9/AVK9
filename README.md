@@ -1,4 +1,18 @@
 ## I am coding...👋
+### My stack
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFD200)
+![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=47C5FB)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
+![Node.js]([https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=47C5FB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png))
+![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=FF7A00)
+![Css3](https://img.shields.io/badge/Css3-090909?style=for-the-badge&logo=Css3&logoColor=47C5FB)
+![MUI](https://img.shields.io/badge/MUI-090909?style=for-the-badge&logo=MUI&logoColor=47C5FB)
+![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS&logoColor=CC6699)
+![ReactRouter](https://img.shields.io/badge/ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=00000)
+![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=BD00FF)
+![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=00000)
+![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-090909?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
 ###
 
 <div align="center">
@@ -24,4 +38,5 @@
 ###
 
 ### Stats
-[![codewars](https://www.codewars.com/users/AVK9/badges/small)](https://www.codewars.com/users/AVK9) 
+<! -- [![codewars](https://www.codewars.com/users/AVK9/badges/small)](https://www.codewars.com/users/AVK9)  -->
+
