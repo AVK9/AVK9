@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=avk9.avk9&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id}"  />
 </div>
 
 ###
