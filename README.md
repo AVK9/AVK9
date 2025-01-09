@@ -24,4 +24,4 @@
 ###
 
 ### Stats
-[![codewars](https://www.codewars.com/users/katsubo79@gmail.com/badges/small)](https://www.codewars.com/users/katsubo79@gmail.com) 
+[![codewars](https://www.codewars.com/users/AVK9/badges/small)](https://www.codewars.com/users/AVK9) 
