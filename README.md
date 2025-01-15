@@ -1,4 +1,4 @@
-## I am coding...👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=30&lines=👋+I+am+coding...)](https://git.io/typing-svg)
 ### My stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFD200)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=47C5FB)
